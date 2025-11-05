@@ -1,0 +1,28 @@
+img {
+  height: 134px;
+  width: 431px;
+  border-radius: 9px;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.fffffsss {
+  width: 100%;
+  display: flex;
+  justify-content: start;
+  background-color: #333333;
+}
+.fffffss {
+  text-align: center;
+  position: relative;
+  top: 88px;
+  font-size: 69px;
+}
+.fffffsss img {
+  position: relative;
+  position: relative;
+  bottom: 67px;
+  left: 22px;
+}
